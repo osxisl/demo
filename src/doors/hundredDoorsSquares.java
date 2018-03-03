@@ -9,7 +9,7 @@ public class hundredDoorsSquares {
                 }
             for (int i = 1; i < 101; i++) {
                 if (row[i]==1)
-                System.out.print("O");
+                    System.out.print("O");
                 else
                     System.out.print("X");
             }
